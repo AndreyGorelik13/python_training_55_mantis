@@ -1,6 +1,6 @@
 {
   "web": {
-    "baseUrl": "http://localhost/mantisbt/login_page.php"},
+    "baseUrl": "http://localhost/mantisbt"},
   "webadmin": {
     "username": "administrator",
     "password": "root"
